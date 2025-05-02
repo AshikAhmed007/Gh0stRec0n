@@ -59,7 +59,7 @@ end_step
 # Step 3: Amass with IPs
 progress "Running Amass with IP output..."
 amass enum -d "$domain" >"$out/amass_full.txt"
-grep -oE '\b([a-zA-Z0-9_-]+\.)+'"$domain" "$out/amass_full.txt" > "$out/final_amass.txt"
+grep -oE "\b([a-zA-Z0-9_-]+\.)+$domain\b" "$out/amass_full.txt" > "$out/final_amass.txt"
 end_step
 
 # Step 4: Sublist3r
