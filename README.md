@@ -23,7 +23,7 @@ This script automates the process of subdomain enumeration using multiple tools 
 - Checks for **live hosts using HTTPX**
 - Captures screenshots using **Aquatone**
 - Logs everything to a timestamped output directory
-- Color-coded output (✔ success = green, ✖ fail = red, ➜ info = brown)
+- Color-coded output (✔ success = green, ❌ fail = red, ➜ info = brown)
 
 ---
 
