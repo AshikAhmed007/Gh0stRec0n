@@ -67,14 +67,14 @@ Make sure `$GOPATH/bin` is added to your `$PATH` in your `.bashrc` or `.zshrc`.
 ## 🚀 Usage
 
 ```bash
-chmod +x gh0str_rec0n.sh
-./gh0str_rec0n.sh <domain.com> <wordlist.txt> <resolvers.txt>
+chmod +x gh0st_rec0n.sh
+./gh0st_rec0n.sh <domain.com> <wordlist.txt> <resolvers.txt>
 ```
 
 Example:
 
 ```bash
-./gh0str_rec0n.sh example.com wordlist.txt resolvers.txt
+./gh0st_rec0n.sh example.com wordlist.txt resolvers.txt
 ```
 
 ---
