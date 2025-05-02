@@ -40,7 +40,7 @@ Ensure the following tools are installed and available in your system's `$PATH`:
 - [`ffuf`](https://github.com/ffuf/ffuf)
 - [`httpx`](https://github.com/projectdiscovery/httpx)
 - [`aquatone`](https://github.com/michenriksen/aquatone/releases/)
-- `jq`, `curl`, `cut`, `sed`, `awk`, `grep`, `tee`, `sort`
+- `jq`, `curl`, `cut`, `sed`, `grep`, `tee`, `sort`
 
 > **Note**: Aquatone requires Google Chrome or Chromium installed and in your path.
 
