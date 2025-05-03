@@ -144,7 +144,15 @@ This script is open for educational and ethical security testing only. Always ge
 
 ---
 
-## ✍️ Author
+## 👨‍💻 Author
 
-Ashik Ahmed  
-_Web Penetration Tester | Ethical Hacker_
+**Ashik Ahmed**  
+Web Pentester | Cybersecurity Enthusiast  
+📧 ashikahmedgd007@gmail.com  
+🔗 [GitHub](https://github.com/your-github-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
