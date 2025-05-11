@@ -15,7 +15,7 @@ domain=$1
 wordlist=$2
 resolvers=$3
 out="recon_$domain"
-log="$out/log.txt"
+log="$out/log.log"
 
 mkdir -p "$out"
 
