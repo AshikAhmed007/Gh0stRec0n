@@ -78,7 +78,16 @@ Make sure `$GOPATH/bin` is added to your `$PATH` in your `.bashrc` or `.zshrc`.
 ## 🚀 Usage
 
 ```bash
+# Clone the repository
+git clone https://github.com/AshikAhmed007/Gh0stRec0n.git
+
+# Navigate into the project folder
+Gh0stRec0n
+
+# Make the script executable
 chmod +x gh0st_rec0n.sh
+
+# Execution
 ./gh0st_rec0n.sh <domain.com> <wordlist.txt> <resolvers.txt>
 ```
 
@@ -119,7 +128,7 @@ recon_example.com/
 ├── ffuf.txt
 ├── findomain.txt
 ├── live.txt
-├── log.txt
+├── log.log
 ├── puredns.txt
 ├── subfinder.txt
 ├── sublist3r.txt
