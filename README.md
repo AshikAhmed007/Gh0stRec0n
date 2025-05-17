@@ -82,7 +82,7 @@ Make sure `$GOPATH/bin` is added to your `$PATH` in your `.bashrc` or `.zshrc`.
 git clone https://github.com/AshikAhmed007/Gh0stRec0n.git
 
 # Navigate into the project folder
-Gh0stRec0n
+cd Gh0stRec0n
 
 # Make the script executable
 chmod +x gh0st_rec0n.sh
